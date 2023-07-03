@@ -6,7 +6,7 @@ Course Duration: 2nd Semester AY 2022-2023
 Programming Language Used: MATLAB and Python
 
 Topics covered:
-Image and Video Processing, Complex Network Tools, and Machine Learning
+Image Processing, Complex Network Tools, and Machine Learning
 
 Table of Contents:
 
