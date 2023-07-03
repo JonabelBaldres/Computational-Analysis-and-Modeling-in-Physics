@@ -3,7 +3,7 @@ Contains all my submission for my Applied Physics 157 Course.
 
 Course Duration: 2nd Semester AY 2022-2023
 
-Software Used: MATLAB and Python
+Programming Language Used: MATLAB and Python
 
 Topics covered:
 Image and Video Processing, Complex Network Tools, and Machine Learning
