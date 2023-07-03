@@ -15,7 +15,7 @@ Table of Contents:
 4. Feature Extraction from Images using ImageJ
 5. Feature Extraction in MATLAB Part 1 of 3: Image Segmentation
 6. Feature Extraction in MATLAB Part 2 of 3: Morphological Operations
-7. Feature Extraction in MATLAB Part 3 of 3:Feature Extraction from Labeled Blobs
+7. Feature Extraction in MATLAB Part 3 of 3: Feature Extraction from Labeled Blobs
 8. Machine Learning: Perceptron
 9. Machine Learning: Neural Networks 
 10. Complexity Science: Cellular Automaton
