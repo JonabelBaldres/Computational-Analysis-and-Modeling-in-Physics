@@ -7,8 +7,8 @@ Topics covered:
 Image and Video Processing, Complex Network Tools, and Machine Learning
 
 Table of Contents:
-[1] Digital Image Formation and Enhancement
-[2] Fourier Transform Model of Image Formation
+[1] Digital Image Formation and Enhancement \\
+[2] Fourier Transform Model of Image Formation 
 [3] Properties and Applications of the 2D Fourier Transform
 [4] Feature Extraction from Images using ImageJ
 [5] Feature Extraction in MATLAB Part 1 of 3: Image Segmentation
